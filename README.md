@@ -1,4 +1,4 @@
-![MERN-developer](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx?format=jpg&name=large)
+![MERN-developer](https://media.licdn.com/dms/image/D5616AQEigzhBGZoSwg/profile-displaybackgroundimage-shrink_350_1400/0/1701339287156?e=1706745600&v=beta&t=EBy3x93iDWlNRG9zSU8uMGsTYyz5E-d1IaMqCgRACZs)
 # 💫 About Me:
 
 [![](https://visitcount.itsvg.in/api?id=djGopinath&icon=3&color=8)](https://visitcount.itsvg.in)
