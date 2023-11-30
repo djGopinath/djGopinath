@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=djGopinath&icon=3&color=8)](https://visitcount.itsvg.in)
 
-Experienced Full stack developer passionate about creating cutting-edge solutions in an Agile environment. Expert in JavaScript, MongoDB, Express.js, React.js, and Node.js, with a keen eye for intuitive app design. Thrives on transforming intricate concepts into innovative, efficient, and seamless Web applications.
+Experienced Full stack developer passionate about creating cutting-edge solutions in an Agile environment. Expertise in React.js, Angular,Typescript, JavaScript, MongoDB, Express.js, and Node.js, with a keen eye for intuitive app design. Thrives on transforming intricate concepts into innovative, efficient, and seamless Web applications.
 
 # 💻 Tech Stack:
 
