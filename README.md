@@ -1,4 +1,4 @@
-![MERN-developer](https://media.licdn.com/dms/image/D5616AQEigzhBGZoSwg/profile-displaybackgroundimage-shrink_350_1400/0/1701339287156?e=1706745600&v=beta&t=EBy3x93iDWlNRG9zSU8uMGsTYyz5E-d1IaMqCgRACZs)
+![MERN-developer](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53056.jpg?t=st=1738560271~exp=1738563871~hmac=3d53db41f7f2aeb6bbb6024927f28fea58aef8919e7e6233f6cb88df24a0aa6c&w=826/profile-displaybackgroundimage-shrink_350_1400/0/1701339287156?e=1706745600&v=beta&t=EBy3x93iDWlNRG9zSU8uMGsTYyz5E-d1IaMqCgRACZs)
 # 💫 About Me:
 
 [![](https://visitcount.itsvg.in/api?id=djGopinath&icon=3&color=8)](https://visitcount.itsvg.in)
